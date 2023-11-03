@@ -66,17 +66,17 @@ nav ul li:hover {
 }
 
 .dropdown-menu {
-    width: 25px;
-    height: 25px;
+    width: 30px;
+    height: 30px;
     overflow: hidden;
 }
 
 .dropdown-menu img {
     position: relative;
-    right: 84px;
-    top: -65px;
+    right: 80px;
+    top: -62px;
     max-width: 11em;
-    opacity: 0.7;
+    opacity: 0.9;
 }
 
 .icon {
