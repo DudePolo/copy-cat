@@ -55,7 +55,8 @@ nav ul li:hover {
 }
 
 .dropdown-menu-container {
-    /*hover*/
+    color: red;
+    border-radius: 50%;
 }
 
 .dropdown-menu {
@@ -69,6 +70,7 @@ nav ul li:hover {
     right: 84px;
     top: -65px;
     max-width: 11em;
+    opacity: 0.7;
 }
 
 .icon {
@@ -99,5 +101,20 @@ main img {
 }
 
 .search-container {
+    display: flex;
+    justify-content: center;
     padding-top: 20px;
+    width: 80%;
+}
+
+.search-input {
+    width: 60%;
+}
+
+.button-container {
+    padding-top: 20px;
+}
+
+main p {
+    font-size: 16px;
 }
